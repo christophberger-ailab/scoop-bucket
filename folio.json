@@ -1,0 +1,22 @@
+{
+    "version": "0.7.2",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/christophberger-ailab/foolscap-folio/releases/download/v0.7.2/folio_v0.7.2_windows_amd64.zip",
+            "bin": [
+                "folio.exe"
+            ],
+            "hash": "d5a2d9f1bc63f2ea3076eb92391082948c87fe3800d68e7f37f7bb459a01aa59"
+        },
+        "arm64": {
+            "url": "https://github.com/christophberger-ailab/foolscap-folio/releases/download/v0.7.2/folio_v0.7.2_windows_arm64.zip",
+            "bin": [
+                "folio.exe"
+            ],
+            "hash": "930851abfb81e47e23680ff1b222d3ead95e4ea7782910180df62fda026a5191"
+        }
+    },
+    "homepage": "https://github.com/christophberger-ailab/foolscap-folio",
+    "license": "BSD-3-Clause",
+    "description": "Manage and render a Markdown documentation tree"
+}
