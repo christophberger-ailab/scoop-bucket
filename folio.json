@@ -1,19 +1,19 @@
 {
-    "version": "0.8.1",
+    "version": "0.8.2",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/christophberger-ailab/foolscap-folio/releases/download/v0.8.1/folio_v0.8.1_windows_amd64.zip",
+            "url": "https://github.com/christophberger-ailab/foolscap-folio/releases/download/v0.8.2/folio_v0.8.2_windows_amd64.zip",
             "bin": [
                 "folio.exe"
             ],
-            "hash": "f352bb9be72f24d37d45ba6dc825c28a130929488e8413be4154469479122978"
+            "hash": "327a23c44321176c12536d356b248730d94f195c93bf8c1a76dd186fa3a381e6"
         },
         "arm64": {
-            "url": "https://github.com/christophberger-ailab/foolscap-folio/releases/download/v0.8.1/folio_v0.8.1_windows_arm64.zip",
+            "url": "https://github.com/christophberger-ailab/foolscap-folio/releases/download/v0.8.2/folio_v0.8.2_windows_arm64.zip",
             "bin": [
                 "folio.exe"
             ],
-            "hash": "7879be68a12d4ad6a75419c48d6b79513768eeca34bec14f4711dead4b8ea4e4"
+            "hash": "b94eed08695068de59a47223bf2591e2069718496da67a8ac9e6fdd249191743"
         }
     },
     "homepage": "https://github.com/christophberger-ailab/foolscap-folio",
